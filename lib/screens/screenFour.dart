@@ -2,14 +2,14 @@
 
 import 'package:flutter/material.dart';
 
-class ScreenTwo extends StatelessWidget {
-  const ScreenTwo({Key? key}) : super(key: key);
+class ScreenFour extends StatelessWidget {
+  const ScreenFour({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return const SafeArea(
       child: Center(
-        child: Text('Screen Two'),
+        child: Text('Screen Four'),
       ),
     );
   }
